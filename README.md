@@ -1,7 +1,7 @@
 Ambiance-LightDark-Blue
 =======================
 
-A light dark theme for Ubuntu 14.04.
+A light dark theme for Ubuntu 14.04 and 16.04. Although not tested on all releases, this theme should be usable on every Ubuntu release reliant on Unity 7.
 
 Installation
 ------------
